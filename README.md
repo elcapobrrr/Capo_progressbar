@@ -4,7 +4,7 @@ Dependency for creating progressbars in QB-Core.
 
 Previuw
 
-https://streamable.com/r75320
+https://streamable.com/r75320   
 
 
 
