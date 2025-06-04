@@ -15,7 +15,10 @@ client_script 'client.lua'
 
 files {
     'html/index.html',
-    'html/style.css',
-    'html/script.js',
+    'html/css/bootstrap.min.css',
+    'html/js/jquery.min.js',
+    'html/css/style.css',
+    'html/js/script.js',
+    'html/marbella.otf',	
     'html/Evogria_Italic.otf'
 }
