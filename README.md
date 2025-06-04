@@ -1,10 +1,8 @@
 # Progressbar
 
-Dependency for creating progressbars in QB-Core.
-
 Previuw
 
-https://streamable.com/ietpkn
+https://streamable.com/ldp9g4
 
 
 
